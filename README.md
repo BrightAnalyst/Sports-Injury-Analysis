@@ -35,7 +35,6 @@ The dataset contains **15,000 injury records** across **12,000+ clubs**, **19 in
 <img width="743" height="418" alt="Screenshot 2025-08-27 190613" src="https://github.com/user-attachments/assets/0e297a5a-4e34-4c65-bbcf-79e019f357a8" />
 <img width="745" height="420" alt="Screenshot 2025-08-27 190432" src="https://github.com/user-attachments/assets/ced107e3-242f-4cff-b9b2-9449b063e3f4" />
 
-*(Insert your dashboard screenshots here)*
 
 
 
